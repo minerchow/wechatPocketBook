@@ -1,6 +1,9 @@
 
 <view class="container">
-  <view class="usermotto">
+  <!--<view class="usermotto">
     <text class="user-motto">{{motto}}</text>
+  </view>-->
+  <view class="section-ctn">
+        <image src="{{src}}"></image>
   </view>
 </view>
