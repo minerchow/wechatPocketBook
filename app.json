@@ -1,7 +1,9 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/pocketList/list",
+    "pages/pocketDetail/detail"
   ],
   "window":{
     "backgroundTextStyle":"light",
