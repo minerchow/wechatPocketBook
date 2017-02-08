@@ -1,4 +1,42 @@
 
-<view class="container">
-
+<view class="containers">
+  <!--<view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>-->
+  <view class="section-ctn">
+        <image src="{{src}}"></image>
+  </view>
+  <!--第一步-->
+  <view class="wrapper clearfix" wx:for="{{bookChapters}}" wx:for-item="i">
+      <view class="step-title">
+        <text class="title-1">0{{index+1}}</text>
+        <text class="title-2">{{i.chaptername}}</text>
+        <text class="title-3">{{i.ename}}</text>
+      </view>
+      <view class="scroll">
+      <scroll-view class="wrap-scroll" scroll-x="true" bindscroll="scroll">
+        <view class="step-link" wx:for="{{i.bookcontent}}" wx:for-item="j">
+        <navigator>
+          <image src="{{j.imgurl}}"></image>
+          <text class="img-text">{{j.contentname}}</text>
+        </navigator>
+      </view>
+      </scroll-view>
+      </view>
+      
+      
+  </view>
+  
+  <!--第二步-->
+  <!--<view class="step-title">
+        <text class="title-1">02</text>
+        <text class="title-2">预订时</text>
+        <text class="title-3">Before Abroad</text>
+  </view>
+  <view class="step-link">
+    <navigator url="url">
+      <image src="http://7xpm50.com1.z0.glb.clouddn.com/newbook2.jpg"></image>
+      <text class="img-text">准备租车材料</text>
+    </navigator>
+  </view>-->
 </view>
