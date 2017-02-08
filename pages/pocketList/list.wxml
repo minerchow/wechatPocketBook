@@ -18,7 +18,7 @@
 <view class="scroll">
 <view class="wrap-scroll">
 <view class="step-link" wx:for="{{i.bookcontent}}" wx:for-item="j">
-        <navigator url="navigate?title=navigate">
+        <navigator url="{{j.lnkurl}}">
           <image src="{{j.imgurl}}" mode="widthFix"></image>
           <text class="img-text">{{j.contentname}}</text>
         </navigator>
