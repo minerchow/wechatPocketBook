@@ -62,3 +62,8 @@
     top: 40rpx;
     line-height: 80rpx;
 }
+.last-fill{
+    width: 20rpx;
+    height: 160rpx;
+    display: inline-block;
+}
