@@ -1,4 +1,7 @@
 /**app.wxss**/
+view,text{
+  font-family:-apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei";
+}
 .container {
   height: 100%;
   display: flex;

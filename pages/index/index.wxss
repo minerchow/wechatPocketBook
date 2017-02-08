@@ -12,12 +12,31 @@
 }
 .img-list .list-box .list{
   margin:0 0 70rpx 0;
+  position:relative;
+}
+.img-list .list-box .list .tip{
+  position: absolute;
+  color: #fff;
+  font-size:24rpx;
+  width:270rpx;
+  background: rgba(0,0,0,0.5);
+  text-align: center;
+  padding:3px 0;
+  
 }
 .img-list .list-box .list:nth-child(odd){
   float:left;
 }
 .img-list .list-box .list:nth-child(even){
   float:right;
+}
+.img-list .list-box .list:nth-child(odd) .tip{
+  bottom:75rpx;
+  left:70rpx;
+}
+.img-list .list-box .list:nth-child(even) .tip{
+  bottom:75rpx;
+  right:70rpx;
 }
 .img-list .list-box .list:nth-child(odd) .img{
   width:270rpx;

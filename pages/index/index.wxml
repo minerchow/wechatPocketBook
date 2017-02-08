@@ -4,48 +4,72 @@
     <view class="list-box">
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/top_usa_1.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">美国自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/australia_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">澳大利亚自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/germany_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">德国自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/canada_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">加拿大自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/newzealand_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">新西兰自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/france_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">法国自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/spain_top.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">西班牙自驾指南</text>
         </view>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/oversea_top1.jpg" class="img"></image>
+        <view class="tip">
+          惠租车出品
+        </view>
         <view>
           <text class="text">海外自驾指南</text>
         </view>
