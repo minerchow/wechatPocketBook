@@ -1,6 +1,6 @@
 <view >
   <view class='logo clearfix'>
-      <image src="http://7xpm50.com1.z0.glb.clouddn.com/头图.png" class='image_top'></image>
+      <image src="http://7xpm50.com1.z0.glb.clouddn.com/头图.png" class='image_top' model='widthFix'></image>
   </view>
   <!--文字-->
   <view class='text_1'>
@@ -109,7 +109,7 @@ Tips：关于车型组
   国外租车价格其实并不贵，在美国，国内售价为40-50万的Jeep大切诺基仅需310元/天起，同等售价的福特野马也只需不到300元/天，性价比特别高；
 
   </view>
-  <view class='text_2'>
+  <view class='text_2 fit'>
 同时租车天数越长可能价格越便宜。附加费用通常包含：GPS、儿童座椅、购买一箱燃油等，有时还有异地还车费用。
   </view>
    <view class="logo clearfix">
@@ -170,24 +170,24 @@ Tips：关于车型组
    <view class="logo clearfix">
     <image src="http://7xpm50.com1.z0.glb.clouddn.com/左舵or右舵.jpg" class='image_top'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  首先，搞清楚驾驶方向！美国和欧洲大部分国家都是和中国一样，靠右行驶。澳大利亚、新西兰、英国等和中国相反，靠左行驶。
   </view>
   <view class="logo clearfix">
     <image src="http://7xpm50.com1.z0.glb.clouddn.com/stoppp.jpg" class='image_top'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  看到Stop路牌一定要停！国内的停止路牌形同虚设，没人拿它当回事。但在海外不！一！样！要时时记得，在外开车要"让"，不可"抢"。
   </view>
   <view class="logo clearfix">
     <image src="http://7xpm50.com1.z0.glb.clouddn.com/横道线礼让标志.jpg" class='image_top'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  在国内，绿灯就是老司机们的通行证。但在美国，不管是不是绿灯，不管是不是路口，不管是不是快速路，行人最大。
   </view>
   <view class="logo clearfix">
     <image src="http://7xpm50.com1.z0.glb.clouddn.com/IMG_1319.jpg" class='image_top'></image>
     </view>
-    <view class='text_4'>说了这么多,其实和在国内开车大同小异；</view>
-    <view class='text_4'>海外自驾So easy,现在就开始出发吧！</view>
+    <view class='text_4 fis'>说了这么多,其实和在国内开车大同小异；</view>
+    <view class='text_4 first'>海外自驾So easy,现在就开始出发吧！</view>
 </view>
