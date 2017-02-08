@@ -28,7 +28,7 @@ Page({
           {
             "contentiD":112,
             "contentname":"准备租车材料",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook2.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":2,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -38,7 +38,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"租车费用计算",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook3.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":2,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -48,7 +48,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"选购租车保险",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook4.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":2,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -68,7 +68,7 @@ Page({
           {
             "contentiD":112,
             "contentname":"前往租车门店",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook5.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":3,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -78,7 +78,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"看懂租车合同",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook6.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":3,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -88,7 +88,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"门店取车须知",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook7.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":3,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -108,7 +108,7 @@ Page({
           {
             "contentiD":112,
             "contentname":"美国交规攻略",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook8.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":4,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -118,7 +118,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"停车缴费须知",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook9.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":4,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -128,7 +128,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"加油小贴士",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook10.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":4,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -138,7 +138,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"车辆故障处理",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook11.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":4,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -148,7 +148,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"如何使用导航",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook12.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":4,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -168,7 +168,7 @@ Page({
           {
             "contentiD":112,
             "contentname":"还车注意事项",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook13.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":5,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -178,7 +178,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"保险如何理赔",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook14.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":5,
             "sharedes":"新手指南，解答各种常见租车问题。",
@@ -188,7 +188,7 @@ Page({
             {
             "contentiD":112,
             "contentname":"罚款如何缴纳",
-            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
+            "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook15.jpg",
             "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
             "sequence":5,
             "sharedes":"新手指南，解答各种常见租车问题。",

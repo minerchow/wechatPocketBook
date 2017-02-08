@@ -13,16 +13,19 @@
         <text class="title-2">{{i.chaptername}}</text>
         <text class="title-3">{{i.ename}}</text>
       </view>
-      <view class="scroll">
-      <scroll-view class="wrap-scroll" scroll-x="true" bindscroll="scroll">
-        <view class="step-link" wx:for="{{i.bookcontent}}" wx:for-item="j">
-        <navigator>
+
+
+<view class="scroll">
+<view class="wrap-scroll">
+<view class="step-link" wx:for="{{i.bookcontent}}" wx:for-item="j">
+        <navigator url="navigate?title=navigate">
           <image src="{{j.imgurl}}"></image>
           <text class="img-text">{{j.contentname}}</text>
         </navigator>
       </view>
-      </scroll-view>
-      </view>
+</view>
+</view>
+
       
       
   </view>
