@@ -3,7 +3,7 @@
   <view class="img-list clearfix">
     <view class="list-box">
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/top_usa_1.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/top_usa_1.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -12,7 +12,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/australia_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/australia_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -21,7 +21,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/germany_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/germany_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -30,7 +30,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/canada_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/canada_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -39,7 +39,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/newzealand_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/newzealand_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -48,7 +48,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/france_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/france_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -57,7 +57,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/spain_top.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/spain_top.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
@@ -66,7 +66,7 @@
         </view>
       </view>
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/oversea_top1.jpg" class="img"></image>
+        <image src="http://cdn.qiniu.app.huizuche.com/book/oversea_top1.jpg" class="img" mode="widthFix"></image>
         <view class="tip">
           惠租车出品
         </view>
