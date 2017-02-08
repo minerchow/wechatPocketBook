@@ -3,13 +3,15 @@
   <view class="img-list clearfix">
     <view class="list-box">
       <view class="list">
-        <image src="http://cdn.qiniu.app.huizuche.com/book/top_usa_1.jpg" class="img" mode="widthFix"></image>
-        <view class="tip">
-          惠租车出品
-        </view>
-        <view>
-          <text class="text">美国自驾指南</text>
-        </view>
+         <navigator url="../pocketList/list">
+            <image src="http://cdn.qiniu.app.huizuche.com/book/top_usa_1.jpg" class="img" mode="widthFix"></image>
+            <view class="tip">
+              惠租车出品
+            </view>
+            <view>
+              <text class="text">美国自驾指南</text>
+            </view>
+         </navigator>
       </view>
       <view class="list">
         <image src="http://cdn.qiniu.app.huizuche.com/book/australia_top.jpg" class="img" mode="widthFix"></image>

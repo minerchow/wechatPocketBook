@@ -1,6 +1,6 @@
 <view >
   <view class='logo clearfix'>
-      <image src="http://7xpm50.com1.z0.glb.clouddn.com/头图.png" class='image_top'></image>
+      <image src="http://7xpm50.com1.z0.glb.clouddn.com/头图.png" class='image_top' model='widthFix'></image>
   </view>
   <!--文字-->
   <view class='text_1'>
@@ -16,7 +16,7 @@
     <i class='icon-title'></i>
   </view>
   <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/海外租车4步.png" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/海外租车4步.png" class='image_top'  model='widthFix'></image>
   </view>
   <text class='text_3'>海外自驾并不难,只需简单步即可搞定.</text>
   <!--2-->
@@ -26,7 +26,7 @@
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/中国驾照+驾照全球通+护照+信用卡.png" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/中国驾照+驾照全球通+护照+信用卡.png" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
     在海外租车，持中国驾照的同时，还需要提供车行认可的驾照翻译件、驾照公证件或驾照全球通。
@@ -41,7 +41,7 @@
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/WechatIMG9.jpeg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/WechatIMG9.jpeg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
     答案是YES！小鹿并不建议新手和本本族在海外租车自驾，绝大部分租车公司都要求驾驶人领取驾照需至少满一年以上。
@@ -57,7 +57,7 @@
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/47293428408-7834757.jpeg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/47293428408-7834757.jpeg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
    小鹿建议在签证和酒店等预定完成，路线确定之后，就可以开始考虑预定租车。很多国内租车网站都会有“早鸟”活动，一般提前2-3个月预定会有比较好的价格。
@@ -70,7 +70,7 @@
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/因地制宜.png" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/因地制宜.png" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
    需要因地制宜，根据不同的目的地选择合适的车型。
@@ -87,7 +87,7 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/美国、澳新=默认自动挡.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/美国、澳新=默认自动挡.jpg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
    最好选择自动挡车型，国外自驾山路和弯道坡道比较多，自动挡开起来更省力。当然，如果国内经常驾驶手动档汽车，又想体验操作乐趣的话也可以尝试选择手动挡。
@@ -103,17 +103,17 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/893458084305.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/893458084305.jpg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
   国外租车价格其实并不贵，在美国，国内售价为40-50万的Jeep大切诺基仅需310元/天起，同等售价的福特野马也只需不到300元/天，性价比特别高；
 
   </view>
-  <view class='text_2'>
+  <view class='text_2 fit'>
 同时租车天数越长可能价格越便宜。附加费用通常包含：GPS、儿童座椅、购买一箱燃油等，有时还有异地还车费用。
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/租车费用=车辆租金+保险+附加费用+押金.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/租车费用=车辆租金+保险+附加费用+押金.jpg" class='image_top' model='widthFix'></image>
   </view>
     <view class='text_2'>
 为了全程安全无忧，保险费用一定不能省！小鹿推荐惠租车与德国安联保险集团合作推出的“惠驾天下”海外自驾补充全险，提供更全面的承保范围和更简单的理赔流程。
@@ -125,7 +125,7 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/bidu_Q8.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/bidu_Q8.jpg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
    一般租车公司的租金是以24小时为一天租期计算，不足24小时仍以一天计算。假设租车时间为52小时，则会以3天租期来计算。所以，合理安排取还车时间，可以节省租金。
@@ -138,7 +138,7 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/42380238482308.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/42380238482308.jpg" class='image_top' model='widthFix'></image>
   </view>
   <view class='teshu'>
   取车4步骤：
@@ -147,7 +147,7 @@ Tips：关于车型组
   前往租车柜台，办理租车手续--签订租车合同--信用卡预授权--检查车辆/提车。
   </view>
   <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/40894038423049032843208.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/40894038423049032843208.jpg" class='image_top' model='widthFix'></image>
   </view>
   <!--10-->
          <view class='section'>
@@ -156,7 +156,7 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/多人开车 .jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/多人开车 .jpg" class='image_top' model='widthFix'></image>
   </view>
   <view class='text_1'>
   通常自驾旅行，同行的小伙伴都会轮换开车，这个一定要注意！需要在取车时告知门店员工，并缴纳相应的额外驾驶员资格费，同时也需要提供相关证件。
@@ -168,26 +168,26 @@ Tips：关于车型组
     <i class='icon-title'></i>
   </view>
    <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/左舵or右舵.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/左舵or右舵.jpg" class='image_top' model='widthFix'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  首先，搞清楚驾驶方向！美国和欧洲大部分国家都是和中国一样，靠右行驶。澳大利亚、新西兰、英国等和中国相反，靠左行驶。
   </view>
   <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/stoppp.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/stoppp.jpg" class='image_top' model='widthFix'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  看到Stop路牌一定要停！国内的停止路牌形同虚设，没人拿它当回事。但在海外不！一！样！要时时记得，在外开车要"让"，不可"抢"。
   </view>
   <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/横道线礼让标志.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/横道线礼让标志.jpg" class='image_top' model='widthFix'></image>
   </view>
-  <view class='text_1'>
+  <view class='text_1 fit'>
  在国内，绿灯就是老司机们的通行证。但在美国，不管是不是绿灯，不管是不是路口，不管是不是快速路，行人最大。
   </view>
   <view class="logo clearfix">
-    <image src="http://7xpm50.com1.z0.glb.clouddn.com/IMG_1319.jpg" class='image_top'></image>
+    <image src="http://7xpm50.com1.z0.glb.clouddn.com/IMG_1319.jpg" class='image_top'model='widthFix'></image>
     </view>
-    <view class='text_4'>说了这么多,其实和在国内开车大同小异；</view>
-    <view class='text_4'>海外自驾So easy,现在就开始出发吧！</view>
+    <view class='text_4 fis'>说了这么多,其实和在国内开车大同小异；</view>
+    <view class='text_4 first'>海外自驾So easy,现在就开始出发吧！</view>
 </view>

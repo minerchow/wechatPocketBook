@@ -10,7 +10,7 @@ Page({
             "contentiD":92,
             "contentname":"海外自驾必读",
             "imgurl":"http://7xpm50.com1.z0.glb.clouddn.com/newbook1_usa.jpg",
-            "lnkurl":"https://m.huizuche.com/PocketBook/PocketChaptersV2?id=92",        
+            "lnkurl":"../pocketDetail/detail",        
             "sequence":1,
             "sharedes":"新手指南，解答各种常见租车问题。",
             "sharepic":"",
